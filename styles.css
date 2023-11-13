@@ -1,0 +1,31 @@
+body{
+    height: 100vh;
+    background: linear-gradient(180deg, #E30F9B 0%, #D9C1D1 117.84%);
+    
+}
+.outside{
+display: flex;
+width: 1674.813px;
+height: 1256.11px;
+padding: 68.334px 49.906px 67.775px 49.906px;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+}
+
+.box{
+width: 1575px;
+height: 1120px;
+flex-shrink: 0;
+border-radius: 21.875px;
+background: #E53AAB;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+.frame{
+    width: 1017.187px;
+height: 1120px;
+
+border-radius: 43.75px 0px 0px 43.75px;
+background: #FFF;
+}
